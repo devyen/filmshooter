@@ -43,6 +43,38 @@
     - 좋아요 누른 영화, 높은 평점을 매긴 영화 모아보기
     - 내 리뷰 모아보기
 
+
+
+### 메인페이지
+
+![home_page](README.assets/home_page.png)
+
+
+
+### 영화 추천 페이지
+
+![recommend_page](README.assets/recommend_page.png)
+
+
+
+### 프로필 페이지
+
+![localhost_8080_profile_tree (1)](README.assets/profile_page.png)
+
+
+
+### 영화 상세페이지
+
+![detail_page](README.assets/detail_page.png)
+
+
+
+### 리뷰 & 댓글 페이지
+
+![review_page](README.assets/review_page.png)
+
+
+
 ## 3. 데이터베이스 모델링
 
 ![ERD](README.assets/ERD.png)
